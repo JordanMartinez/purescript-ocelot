@@ -87,15 +87,15 @@
 }
 
 .icon-add:before {
-  content: "\E018";
+  content: "\e018";
 }
 
 .icon-added:before {
-  content: "\E019";
+  content: "\e019";
 }
 
 .icon-arrow-down:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .icon-arrow-left {
@@ -103,7 +103,7 @@
 }
 
 .icon-arrow-left:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .icon-arrow-right {
@@ -111,7 +111,7 @@
 }
 
 .icon-arrow-right:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .icon-arrow-up {
@@ -119,15 +119,15 @@
 }
 
 .icon-arrow-up:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .icon-back:before {
-  content: "\E000";
+  content: "\e000";
 }
 
 .icon-carat-down:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .icon-carat-left {
@@ -135,7 +135,7 @@
 }
 
 .icon-carat-left:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .icon-carat-right {
@@ -143,7 +143,7 @@
 }
 
 .icon-carat-right:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .icon-carat-up {
@@ -151,7 +151,7 @@
 }
 
 .icon-carat-up:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .icon-chevron-left {
@@ -159,7 +159,7 @@
 }
 
 .icon-chevron-left:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .icon-chevron-right {
@@ -167,11 +167,11 @@
 }
 
 .icon-chevron-right:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .icon-close:before {
-  content: "\E008";
+  content: "\e008";
 }
 
 .icon-plus {
@@ -179,31 +179,31 @@
 }
 
 .icon-plus:before {
-  content: "\E008";
+  content: "\e008";
 }
 
 .icon-collapse:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .icon-data-sources:before {
-  content: "\E013";
+  content: "\e013";
 }
 
 .icon-delete:before {
-  content: "\E015";
+  content: "\e015";
 }
 
 .icon-delete-circle:before {
-  content: "\E00A";
+  content: "\e00a";
 }
 
 .icon-download:before {
-  content: "\E002";
+  content: "\e002";
 }
 
 .icon-error:before {
-  content: "\E00E";
+  content: "\e00e";
 }
 
 .icon-expand {
@@ -211,67 +211,67 @@
 }
 
 .icon-expand:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .icon-facebook:before {
-  content: "\E006";
+  content: "\e006";
 }
 
 .icon-info:before {
-  content: "\E005";
+  content: "\e005";
 }
 
 .icon-instagram:before {
-  content: "\E009";
+  content: "\e009";
 }
 
 .icon-menu:before {
-  content: "\E00B";
+  content: "\e00b";
 }
 
 .icon-navigate:before {
-  content: "\E00D";
+  content: "\e00d";
 }
 
 .icon-options:before {
-  content: "\E00F";
+  content: "\e00f";
 }
 
 .icon-refresh:before {
-  content: "\E011";
+  content: "\e011";
 }
 
 .icon-search:before {
-  content: "\E012";
+  content: "\e012";
 }
 
 .icon-selected:before {
-  content: "\E017";
+  content: "\e017";
 }
 
 .icon-settings:before {
-  content: "\E014";
+  content: "\e014";
 }
 
 .icon-share:before {
-  content: "\E016";
+  content: "\e016";
 }
 
 .icon-success:before {
-  content: "\E00C";
+  content: "\e00c";
 }
 
 .icon-timeline:before {
-  content: "\E001";
+  content: "\e001";
 }
 
 .icon-tip:before {
-  content: "\E010";
+  content: "\e010";
 }
 
 .icon-twitter:before {
-  content: "\E007";
+  content: "\e007";
 }
 /* Import preflight before any of our CSS so we can override it. */
 

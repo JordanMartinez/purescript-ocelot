@@ -28,3 +28,4 @@ dist/*
 *.swp
 *.psc-ide-port
 *.vscode/
+.bash_hist

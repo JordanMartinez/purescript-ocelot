@@ -87,15 +87,15 @@
 }
 
 .ocelot-scoped .icon-add:before {
-  content: "\E018";
+  content: "\e018";
 }
 
 .ocelot-scoped .icon-added:before {
-  content: "\E019";
+  content: "\e019";
 }
 
 .ocelot-scoped .icon-arrow-down:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .ocelot-scoped .icon-arrow-left {
@@ -103,7 +103,7 @@
 }
 
 .ocelot-scoped .icon-arrow-left:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .ocelot-scoped .icon-arrow-right {
@@ -111,7 +111,7 @@
 }
 
 .ocelot-scoped .icon-arrow-right:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .ocelot-scoped .icon-arrow-up {
@@ -119,15 +119,15 @@
 }
 
 .ocelot-scoped .icon-arrow-up:before {
-  content: "\E01A";
+  content: "\e01a";
 }
 
 .ocelot-scoped .icon-back:before {
-  content: "\E000";
+  content: "\e000";
 }
 
 .ocelot-scoped .icon-carat-down:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .ocelot-scoped .icon-carat-left {
@@ -135,7 +135,7 @@
 }
 
 .ocelot-scoped .icon-carat-left:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .ocelot-scoped .icon-carat-right {
@@ -143,7 +143,7 @@
 }
 
 .ocelot-scoped .icon-carat-right:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .ocelot-scoped .icon-carat-up {
@@ -151,7 +151,7 @@
 }
 
 .ocelot-scoped .icon-carat-up:before {
-  content: "\E003";
+  content: "\e003";
 }
 
 .ocelot-scoped .icon-chevron-left {
@@ -159,7 +159,7 @@
 }
 
 .ocelot-scoped .icon-chevron-left:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .ocelot-scoped .icon-chevron-right {
@@ -167,11 +167,11 @@
 }
 
 .ocelot-scoped .icon-chevron-right:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .ocelot-scoped .icon-close:before {
-  content: "\E008";
+  content: "\e008";
 }
 
 .ocelot-scoped .icon-plus {
@@ -179,31 +179,31 @@
 }
 
 .ocelot-scoped .icon-plus:before {
-  content: "\E008";
+  content: "\e008";
 }
 
 .ocelot-scoped .icon-collapse:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .ocelot-scoped .icon-data-sources:before {
-  content: "\E013";
+  content: "\e013";
 }
 
 .ocelot-scoped .icon-delete:before {
-  content: "\E015";
+  content: "\e015";
 }
 
 .ocelot-scoped .icon-delete-circle:before {
-  content: "\E00A";
+  content: "\e00a";
 }
 
 .ocelot-scoped .icon-download:before {
-  content: "\E002";
+  content: "\e002";
 }
 
 .ocelot-scoped .icon-error:before {
-  content: "\E00E";
+  content: "\e00e";
 }
 
 .ocelot-scoped .icon-expand {
@@ -211,67 +211,67 @@
 }
 
 .ocelot-scoped .icon-expand:before {
-  content: "\E004";
+  content: "\e004";
 }
 
 .ocelot-scoped .icon-facebook:before {
-  content: "\E006";
+  content: "\e006";
 }
 
 .ocelot-scoped .icon-info:before {
-  content: "\E005";
+  content: "\e005";
 }
 
 .ocelot-scoped .icon-instagram:before {
-  content: "\E009";
+  content: "\e009";
 }
 
 .ocelot-scoped .icon-menu:before {
-  content: "\E00B";
+  content: "\e00b";
 }
 
 .ocelot-scoped .icon-navigate:before {
-  content: "\E00D";
+  content: "\e00d";
 }
 
 .ocelot-scoped .icon-options:before {
-  content: "\E00F";
+  content: "\e00f";
 }
 
 .ocelot-scoped .icon-refresh:before {
-  content: "\E011";
+  content: "\e011";
 }
 
 .ocelot-scoped .icon-search:before {
-  content: "\E012";
+  content: "\e012";
 }
 
 .ocelot-scoped .icon-selected:before {
-  content: "\E017";
+  content: "\e017";
 }
 
 .ocelot-scoped .icon-settings:before {
-  content: "\E014";
+  content: "\e014";
 }
 
 .ocelot-scoped .icon-share:before {
-  content: "\E016";
+  content: "\e016";
 }
 
 .ocelot-scoped .icon-success:before {
-  content: "\E00C";
+  content: "\e00c";
 }
 
 .ocelot-scoped .icon-timeline:before {
-  content: "\E001";
+  content: "\e001";
 }
 
 .ocelot-scoped .icon-tip:before {
-  content: "\E010";
+  content: "\e010";
 }
 
 .ocelot-scoped .icon-twitter:before {
-  content: "\E007";
+  content: "\e007";
 }
 /* Import preflight before any of our CSS so we can override it. */
 

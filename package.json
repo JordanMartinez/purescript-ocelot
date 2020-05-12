@@ -2,24 +2,41 @@
   "name": "purescript-ocelot",
   "version": "0.18.0",
   "private": true,
+  "homepage": "https://github.com/citizennet/purescript-ocelot",
+  "authors": [
+    "Dave Zuch <https://github.com/whoadave>",
+    "Chris Cornwell <https://github.com/crcornwell>",
+    "Thomas Honeyman <https://github.com/thomashoneyman>",
+    "Forest Toney <https://github.com/foresttoney>",
+    "Hardy Jones <https://github.com/joneshf-cn>",
+    "Vance Palacio <https://github.com/vanceism7>"
+  ],
+  "description": "An opinionated component library for Halogen apps",
+  "keywords": [
+    "purescript",
+    "halogen",
+    "ui"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:citizennet/purescript-ocelot.git"
+  },
   "scripts": {
-    "build-all": "yarn run build-ui && yarn run build-css",
-    "postinstall": "bower install",
-    "clean": "rm -rf output bower_components node_modules && cd css && rm -rf node_modules",
-    "build-ui": "yarn run pulp -- build -I ui-guide --to dist/example.js -- $RTS_ARGS",
-    "watch-ui": "yarn run pulp -w --then 'yarn run build-css' build -I ui-guide --to dist/example.js",
+    "build-all": "yarn run build-ui && yarn run build-css && yarn run build-index",
+    "build-ui": "spago bundle-app --path ui-guide/Main.purs --to dist/example.js",
+    "watch-ui": "spago bundle-app --path ui-guide/Main.purs --to dist/example.js --watch --then 'yarn run build-css && yarn run build-index'",
+    "build-css": "cd css && yarn run build-all",
+    "build-index": "cp index-template.html dist/index.html",
     "install-css": "cd css && yarn install",
-    "build-css": "cd css && yarn run build-all"
+    "clean": "rm -rf dist .spago output node_modules css/node_modules",
+    "test": "spago test"
   },
   "devDependencies": {
-    "bower": "^1.8.8",
-    "pulp": "^12.4.2",
-    "purescript": "^0.12.0",
-    "webpack-cli": "^3.0.6"
+    "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "big-integer": "^1.6.31",
-    "request": "^2.88.0",
-    "yarn": "^1.16.0"
+    "big-integer": "^1.6.48",
+    "request": "^2.88.2"
   }
 }

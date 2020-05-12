@@ -24,7 +24,8 @@ module.exports = (env='') => {
   if (debug) console.log(prod, scoped, filename)
 
   const config =
-    { entry: './index.js'
+    { mode: prod ? 'production' : 'development'
+    , entry: './index.js'
     , output:
       { path: path.resolve(__dirname, '../dist')
       , filename
